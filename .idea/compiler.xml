@@ -17,11 +17,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="maml" />
+        <module name="e-voting" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="maml" target="8" />
+      <module name="e-voting" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

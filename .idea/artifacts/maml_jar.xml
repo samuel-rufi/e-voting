@@ -2,7 +2,7 @@
   <artifact type="jar" name="maml:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/maml_jar</output-path>
     <root id="archive" name="maml.jar">
-      <element id="module-output" name="maml" />
+      <element id="module-output" name="e-voting" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-api/9.4.8.v20171121/websocket-api-9.4.8.v20171121.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/websocket/websocket-client/9.4.8.v20171121/websocket-client-9.4.8.v20171121.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.8.v20171121/jetty-server-9.4.8.v20171121.jar" path-in-jar="/" />
